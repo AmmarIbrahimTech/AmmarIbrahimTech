@@ -28,7 +28,6 @@ and explore fields such as artificial intelligence, cybersecurity, and software 
 
 - [x] Python language features  
 - [x] Git (basic commands and practices)  
-- [x] GitHub account settings  
 - [x] Dealing with VS Code
 - [x] writing Markdown files
 - [ ] Debugging  
